@@ -1,3 +1,5 @@
+<font color="black">
+
 ## Olá! Eu sou o Eduardo Rivas 👋
 
 Engenheiro Florestal pela [UNICENTRO](https://www3.unicentro.br/) e atualmente Analista de Geoprocessamento - [ARAUCO](https://www.arauco.cl/brasil/marcas/florestal/)
