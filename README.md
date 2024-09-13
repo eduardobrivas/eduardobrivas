@@ -3,7 +3,7 @@
 Engenheiro Florestal pela [UNICENTRO](https://www3.unicentro.br/) e atualmente Analista de Geoprocessamento - [ARAUCO](https://www.arauco.cl/brasil/marcas/florestal/)
 
 
-#### Tecnologias que eu uso no meu dia
+#### 🛠️ Tecnologias que eu uso no meu dia
 <div
 
 <div style="display: inline_block">  
