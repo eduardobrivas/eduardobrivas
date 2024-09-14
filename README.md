@@ -21,4 +21,4 @@ Engenheiro Florestal pela [UNICENTRO](https://www3.unicentro.br/) e atualmente A
 
 
 
-##### Que a Força esteja com você! <img align="center" alt="R-Studio"  height="30" width="100" src="https://cdn.pixabay.com/photo/2018/04/15/18/18/star-wars-3322343_1280.png"/>
+##### Que a Força esteja com você! <img align="center" alt="R-Studio"  height="40" width="160" src="https://github.com/eduardobrivas/eduardobrivas/blob/539082c0b0ae49dd49299d4b45bfdd977267c58a/icons/lightsaber.png"/>
